@@ -1,0 +1,14 @@
+#
+*.pyc
+
+
+# Currency API
+.env
+bootdocker.sh
+boot.test.sh
+
+# tmp ignore
+config.py
+boot.sh
+Dockerfile
+README.md
